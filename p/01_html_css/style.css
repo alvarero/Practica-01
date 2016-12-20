@@ -1,0 +1,124 @@
+body {
+	background-image: url("fondocuerpo.jpg");
+	
+}
+
+
+
+
+
+
+
+header { 
+position: relative;
+height: 50px;
+width: 1500px;
+background:url(http://intlimg.demandmedia.com/DM-Resize/i.ehow.com%2Fimages%2Fa05%2Ftg%2Fll%2Fset-equalizers-800x800.jpg?w=50&h=50&crop_min=1); 
+border:2px;
+font-family: "Courier New";
+color: white;
+text-align: center;
+font-size: 40px;
+
+}
+
+nav {
+	display:compact;
+position: static;
+background: url(http://images7.alphacoders.com/423/423137.jpg);
+border: 5px; 
+position: static;
+width: 200px;
+height: 1000px;
+color: white;
+padding: 5px;
+font-family:"Comic Sans MS";	
+font-size: 20px;
+float:left;
+}
+
+#titulo {
+font-family:"Comic Sans Ms";
+color: white;
+position:absolute;
+text-align: center;
+top: 100px;
+left: 560px;
+font-size: 25px;
+
+}
+
+#empresa {display:block;
+font-family:"Comic Sans Ms";
+color: white;
+position:absolute;
+text-align: center;
+top: 200px;
+left: 300px;
+font-size: 18px;}
+
+#tienda {display: block;
+border: 2px;
+position: absolute;
+width: 700px;
+height: 400px;
+left:400px;
+top: 350px;
+}
+
+#contenido{
+	float:left;
+	width:72%;
+}
+
+
+table{
+	left: 300px ;
+	top: 150px ;
+}
+
+td {
+	border: 2px;
+	width: 17%;
+	color:white;
+	text-align:center
+}
+
+img {
+	width: 150px;
+	height: 150px;
+l
+}
+#textos{
+	font-family: "Comic Sans Ms";
+	font-style: normal;
+	color: white;
+	font-size: 30px;
+}
+#telefono {
+	text-align: center;
+	font-family: Collegiate-Normal;
+	color:white;
+	font-size:150%;
+	
+	}
+	
+#titulogenero {
+	text-align: center;
+	font-family: sans-serif;
+	font-size: 200%;
+	color: white;
+	font-style: normal;
+	}
+	
+	
+#genero {
+		text-align: center;
+		font-family: sans-serif;
+		font-style: normal;
+		color:white;
+		font-size: 150%;
+	}
+	
+
+
